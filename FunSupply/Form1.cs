@@ -197,6 +197,16 @@ namespace FunSupply
                     inputPriceBid.SendKeys(auction.Price);
                     Thread.Sleep(500);
                 }
+                var inputQty = driver.FindElement(By.XPath("//input[@name='Quantity']"));
+                AppConfig.getLog().Log(auction.Link + " Found Input Qty");
+                if (inputQty != null)
+                {
+                    AppConfig.getLog().Log(auction.Link + " Insert Server Qty " + auction.Qty);
+                    inputPriceBid.SendKeys(OpenQA.Selenium.Keys.Control + "a");
+                    Thread.Sleep(1* 1000);
+                    inputPriceBid.SendKeys(auction.Qty);
+                    Thread.Sleep(500);
+                }
 
                 var formBid = driver.FindElement(By.XPath("//form[@action='https://auctions.yahoo.co.jp/jp/show/bid_preview']"));
                 AppConfig.getLog().Log(auction.Link + " Found Form Submit Bid");

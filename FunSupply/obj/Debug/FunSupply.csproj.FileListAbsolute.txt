@@ -1,5 +1,4 @@
 E:\Work\C#\FunSupply\FunSupply\bin\Debug\FunSupply.exe.config
-E:\Work\C#\FunSupply\FunSupply\obj\Debug\FunSupply.csprojResolveAssemblyReference.cache
 E:\Work\C#\FunSupply\FunSupply\obj\Debug\FunSupply.Form1.resources
 E:\Work\C#\FunSupply\FunSupply\obj\Debug\FunSupply.Properties.Resources.resources
 E:\Work\C#\FunSupply\FunSupply\obj\Debug\FunSupply.csproj.GenerateResource.Cache

@@ -11,6 +11,7 @@ namespace FunSupply.DataTranfers
         private string id;
         private string link;
         private string price;
+        private string qty = "1";
 
         public string Id
         {
@@ -48,6 +49,19 @@ namespace FunSupply.DataTranfers
             set
             {
                 price = value;
+            }
+        }
+
+        public string Qty
+        {
+            get
+            {
+                return qty;
+            }
+
+            set
+            {
+                qty = value;
             }
         }
     }
