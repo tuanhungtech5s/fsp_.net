@@ -1,0 +1,424 @@
+04-02-2021 9:56:19: hh
+
+04-02-2021 9:57:32Method:btnWorker_Click Message: hh
+
+04-02-2021 10:34:56 Line 0 - Method start Message: Start Worker!
+
+04-02-2021 10:34:58 Line 0 - Method startSeleliumProfile1 Message: Chrome Driver 1 starting...
+
+04-02-2021 10:35:38 Line 0 - Method start Message: Start Worker!
+
+04-02-2021 10:35:44 Line 0 - Method startSeleliumProfile1 Message: Chrome Driver 1 starting...
+
+04-02-2021 10:37:33 Line 0 - Method start Message: Start Worker!
+
+04-02-2021 10:38:47 Line 0 - Method start Message: Start Worker!
+
+04-02-2021 10:38:49 Line 0 - Method startSeleliumProfile1 Message: Chrome Driver 1 starting...
+
+04-02-2021 10:39:0 Line 0 - Method btnWorker_Click Message: Worker Clicked!
+
+04-02-2021 10:39:24 Line 0 - Method start Message: Start Worker!
+
+04-02-2021 10:39:28 Line 0 - Method start Message: Start Worker!
+
+04-02-2021 10:39:29 Line 0 - Method startSeleliumProfile1 Message: Chrome Driver 1 starting...
+
+04-02-2021 10:39:34 Line 0 - Method btnWorker_Click Message: Worker Clicked!
+
+04-02-2021 10:39:34 Line 0 - Method start Message: Start Worker!
+
+04-02-2021 10:39:34 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 False PROFILE1 False
+
+04-02-2021 10:39:34 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 10:39:34 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 10:39:34 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 10:39:37 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 False PROFILE1 False
+
+04-02-2021 10:39:37 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 10:39:38 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 10:39:38 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 10:39:41 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 False PROFILE1 False
+
+04-02-2021 10:39:41 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 10:39:41 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 10:39:41 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 10:39:44 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 False PROFILE1 False
+
+04-02-2021 10:39:44 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 10:39:44 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 10:39:44 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 10:39:47 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 False PROFILE1 False
+
+04-02-2021 10:39:47 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 10:39:47 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 10:39:47 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 10:39:50 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 False PROFILE1 False
+
+04-02-2021 10:39:50 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 10:39:51 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 10:39:51 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 10:39:54 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 False PROFILE1 False
+
+04-02-2021 10:39:54 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 10:39:54 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 10:39:54 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 10:39:57 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 False PROFILE1 False
+
+04-02-2021 10:39:57 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 10:39:57 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 10:39:57 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 10:40:0 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 False PROFILE1 False
+
+04-02-2021 10:40:0 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 10:40:1 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 10:40:1 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 10:40:4 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 False PROFILE1 False
+
+04-02-2021 10:40:4 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 10:40:4 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 10:40:4 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 10:40:7 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 False PROFILE1 False
+
+04-02-2021 10:40:7 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 10:40:7 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 10:40:7 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 10:40:10 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 False PROFILE1 False
+
+04-02-2021 10:40:10 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 10:40:10 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 10:40:10 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 10:40:13 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 False PROFILE1 False
+
+04-02-2021 10:40:13 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 10:40:14 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 10:40:14 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 10:40:17 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 False PROFILE1 False
+
+04-02-2021 10:40:17 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 10:40:17 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 10:40:17 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 10:40:20 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 False PROFILE1 False
+
+04-02-2021 10:40:20 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 10:40:20 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 10:40:20 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 10:40:23 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 False PROFILE1 False
+
+04-02-2021 10:40:23 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 10:40:23 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 10:40:23 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 10:42:5 Line 0 - Method startSeleliumProfile1 Message: Chrome Driver 1 starting...
+
+04-02-2021 10:42:19 Line 0 - Method startSeleliumProfile1 Message: Chrome Driver 1 starting...
+
+04-02-2021 10:42:55 Line 0 - Method startSeleliumProfile1 Message: Chrome Driver 1 starting...
+
+04-02-2021 10:43:2 Line 0 - Method btnWorker_Click Message: Worker Clicked!
+
+04-02-2021 10:43:16 Line 0 - Method start Message: Start Worker!
+
+04-02-2021 10:43:38 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 False PROFILE1 False
+
+04-02-2021 10:43:42 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 10:43:45 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 10:44:13 Line 0 - Method <start>b__5_0 Message: Error, Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+
+04-02-2021 10:44:13 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 10:44:41 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 True PROFILE1 False
+
+04-02-2021 10:44:41 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 10:44:45 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 10:44:53 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 10:45:10 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 True PROFILE1 True
+
+04-02-2021 10:45:10 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 10:45:14 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 True PROFILE1 True
+
+04-02-2021 10:45:14 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 10:45:22 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 True PROFILE1 True
+
+04-02-2021 10:45:23 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 10:45:34 Line 0 - Method startSeleliumProfile1 Message: Chrome Driver 1 starting...
+
+04-02-2021 10:45:48 Line 0 - Method startSeleliumProfile1 Message: Chrome Driver 1 starting...
+
+04-02-2021 10:46:1 Line 0 - Method btnWorker_Click Message: Worker Clicked!
+
+04-02-2021 10:46:35 Line 0 - Method start Message: Start Worker!
+
+04-02-2021 10:46:41 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 False PROFILE1 False
+
+04-02-2021 10:46:41 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 10:46:42 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 10:47:24 Line 0 - Method startSeleliumProfile1 Message: Chrome Driver 1 starting...
+
+04-02-2021 10:47:37 Line 0 - Method startSeleliumProfile1 Message: Chrome Driver 1 starting...
+
+04-02-2021 10:47:43 Line 0 - Method btnWorker_Click Message: Worker Clicked!
+
+04-02-2021 10:47:45 Line 0 - Method start Message: Start Worker!
+
+04-02-2021 10:47:45 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 False PROFILE1 False
+
+04-02-2021 10:47:45 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 10:47:46 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 10:47:49 Line 0 - Method bidProduct Message: Navigate: Auction ID 1 Link https://page.auctions.yahoo.co.jp/jp/auction/f492821656 Price 2
+
+04-02-2021 10:48:32 Line 0 - Method bidProduct Message: https://page.auctions.yahoo.co.jp/jp/auction/f492821656 Found Button Bid & click!
+
+04-02-2021 10:50:59 Line 0 - Method startSeleliumProfile1 Message: Chrome Driver 1 starting...
+
+04-02-2021 10:51:29 Line 0 - Method startSeleliumProfile1 Message: Chrome Driver 1 starting...
+
+04-02-2021 10:51:40 Line 0 - Method btnWorker_Click Message: Worker Clicked!
+
+04-02-2021 10:51:41 Line 0 - Method start Message: Start Worker!
+
+04-02-2021 10:51:42 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 False PROFILE1 False
+
+04-02-2021 10:51:42 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 10:51:42 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 10:51:45 Line 0 - Method bidProduct Message: Navigate: Auction ID 1 Link https://page.auctions.yahoo.co.jp/jp/auction/f492821656 Price 2
+
+04-02-2021 10:52:26 Line 0 - Method bidProduct Message: https://page.auctions.yahoo.co.jp/jp/auction/f492821656 Found Button Bid & click!
+
+04-02-2021 11:1:19 Line 0 - Method startSeleliumProfile1 Message: Chrome Driver 1 starting...
+
+04-02-2021 11:1:26 Line 0 - Method btnWorker_Click Message: Worker Clicked!
+
+04-02-2021 11:1:29 Line 0 - Method start Message: Start Worker!
+
+04-02-2021 11:1:29 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 False PROFILE1 False
+
+04-02-2021 11:1:29 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 11:1:30 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 11:1:33 Line 0 - Method bidProduct Message: Navigate: Auction ID 1 Link https://page.auctions.yahoo.co.jp/jp/auction/f492821656 Price 2
+
+04-02-2021 11:5:14 Line 0 - Method startSeleliumProfile1 Message: Chrome Driver 1 starting...
+
+04-02-2021 11:5:46 Line 0 - Method btnWorker_Click Message: Worker Clicked!
+
+04-02-2021 11:5:46 Line 0 - Method start Message: Start Worker!
+
+04-02-2021 11:5:46 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 False PROFILE1 False
+
+04-02-2021 11:5:46 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 11:5:47 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 11:6:5 Line 0 - Method bidProduct Message: Navigate: Auction ID 1 Link https://page.auctions.yahoo.co.jp/jp/auction/f492821656 Price 2
+
+04-02-2021 11:7:45 Line 0 - Method <start>b__5_0 Message: Error, invalid selector: Unable to locate an element with the xpath expression //[contains(@class,'prMdl__close')] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//[contains(@class,'prMdl__close')]' is not a valid XPath expression.
+  (Session info: chrome=88.0.4324.146)
+
+04-02-2021 11:7:45 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 11:7:48 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 True PROFILE1 False
+
+04-02-2021 11:7:48 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 11:7:48 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 11:7:53 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 11:7:56 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 True PROFILE1 True
+
+04-02-2021 11:7:56 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 11:7:59 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 True PROFILE1 True
+
+04-02-2021 11:7:59 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 11:8:2 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 True PROFILE1 True
+
+04-02-2021 11:8:2 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 11:8:5 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 True PROFILE1 True
+
+04-02-2021 11:8:5 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 11:8:38 Line 0 - Method startSeleliumProfile1 Message: Chrome Driver 1 starting...
+
+04-02-2021 11:8:43 Line 0 - Method btnWorker_Click Message: Worker Clicked!
+
+04-02-2021 11:8:43 Line 0 - Method start Message: Start Worker!
+
+04-02-2021 11:8:43 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 False PROFILE1 False
+
+04-02-2021 11:8:43 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 11:8:44 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 11:8:48 Line 0 - Method bidProduct Message: Navigate: Auction ID 1 Link https://page.auctions.yahoo.co.jp/jp/auction/f492821656 Price 2
+
+04-02-2021 11:10:59 Line 0 - Method <start>b__5_0 Message: Error, The HTTP request to the remote WebDriver server for URL http://localhost:62952/session/51b8911c63b43057d6f81623792cc7b4/element timed out after 60 seconds.
+
+04-02-2021 11:10:59 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 11:11:2 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 True PROFILE1 False
+
+04-02-2021 11:11:2 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 11:11:2 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 11:11:32 Line 0 - Method bidProduct Message: Navigate: Auction ID 1 Link https://page.auctions.yahoo.co.jp/jp/auction/f492821656 Price 2
+
+04-02-2021 11:12:45 Line 0 - Method <start>b__5_0 Message: Error, The HTTP request to the remote WebDriver server for URL http://localhost:62952/session/51b8911c63b43057d6f81623792cc7b4/url timed out after 60 seconds.
+
+04-02-2021 11:12:45 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 11:12:48 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 True PROFILE1 False
+
+04-02-2021 11:12:48 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 11:12:49 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 11:20:15 Line 0 - Method startSeleliumProfile1 Message: Chrome Driver 1 starting...
+
+04-02-2021 11:20:33 Line 0 - Method btnWorker_Click Message: Worker Clicked!
+
+04-02-2021 11:20:33 Line 0 - Method start Message: Start Worker!
+
+04-02-2021 11:20:33 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 False PROFILE1 False
+
+04-02-2021 11:20:33 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 11:20:33 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 11:20:33 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 11:20:36 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 True PROFILE1 False
+
+04-02-2021 11:20:36 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 11:20:36 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 11:20:39 Line 0 - Method bidProduct Message: Navigate: Auction ID 1 Link https://page.auctions.yahoo.co.jp/jp/auction/f492821656 Price 2
+
+04-02-2021 11:20:53 Line 0 - Method bidProduct Message: https://page.auctions.yahoo.co.jp/jp/auction/f492821656Error Object reference not set to an instance of an object.
+
+04-02-2021 11:20:55 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 11:20:58 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 True PROFILE1 False
+
+04-02-2021 11:20:58 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 11:20:58 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 11:21:13 Line 0 - Method bidProduct Message: Navigate: Auction ID 1 Link https://page.auctions.yahoo.co.jp/jp/auction/f492821656 Price 2
+
+04-02-2021 11:21:40 Line 0 - Method startSeleliumProfile1 Message: Chrome Driver 1 starting...
+
+04-02-2021 11:21:44 Line 0 - Method btnWorker_Click Message: Worker Clicked!
+
+04-02-2021 11:21:44 Line 0 - Method start Message: Start Worker!
+
+04-02-2021 11:21:44 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 False PROFILE1 False
+
+04-02-2021 11:21:44 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 11:21:44 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 11:21:44 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 11:21:47 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 True PROFILE1 False
+
+04-02-2021 11:21:47 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 11:21:48 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 11:21:50 Line 0 - Method bidProduct Message: Navigate: Auction ID 1 Link https://page.auctions.yahoo.co.jp/jp/auction/f492821656 Price 2
+
+04-02-2021 11:22:2 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 11:22:5 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 True PROFILE1 False
+
+04-02-2021 11:22:5 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 11:22:5 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 11:22:34 Line 0 - Method bidProduct Message: Navigate: Auction ID 1 Link https://page.auctions.yahoo.co.jp/jp/auction/f492821656 Price 2
+
+04-02-2021 11:22:34 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 11:22:37 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 True PROFILE1 False
+
+04-02-2021 11:22:37 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 11:22:37 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
+04-02-2021 11:23:5 Line 0 - Method <start>b__5_0 Message: Sleep 3 second before recall api!
+
+04-02-2021 11:23:8 Line 0 - Method <start>b__5_0 Message: In while ....PROFILE1 True PROFILE1 False
+
+04-02-2021 11:23:8 Line 0 - Method <start>b__5_0 Message: Start send request get Bid
+
+04-02-2021 11:23:8 Line 0 - Method <start>b__5_0 Message: Success, get 1 item auctions!
+
